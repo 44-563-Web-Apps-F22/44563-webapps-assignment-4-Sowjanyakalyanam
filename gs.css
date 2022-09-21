@@ -1,3 +1,4 @@
+
 p.speech{
 font-style: normal;
 font-size: medium;
@@ -25,7 +26,8 @@ a:hover p.direction{
 }
 .CAPT.{
     font-style: normal;
-    color: aqua;
+    color: palevioletred;
+
 }
 .JOS{
     font-style: normal;
@@ -53,5 +55,27 @@ a:hover p.direction{
 }
 .CHORUS{
     font-style: italic;
-    color: azure;
+    color: darkgoldenrod;
+
+
+}
+
+.R{
+    font-style: normal;
+    color: bisque;
+}
+.h1{
+    color: aqua;
+}
+.h5{
+    color: blueviolet;
+}
+.h6{
+    color: crimson;
+}
+.p{
+    color: red;
+}
+.d{
+    color: blue;
 }
