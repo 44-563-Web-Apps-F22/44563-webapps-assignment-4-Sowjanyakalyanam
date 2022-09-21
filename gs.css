@@ -127,24 +127,29 @@ a:hover{
     color: yellow;
     text-shadow: 5px 5px 15px red;
     background-color:cyan;
+    border-style: dashed;
 }
 .BOAT:hover{
     color: aliceblue;
-    text-shadow: 5px 5px 15px red;
+    text-shadow: 5px 5px 15px yellow;
     background-color: crimson;
+    border-style: dotted;
 }
 .BUT:hover{
     color: antiquewhite;
-    text-shadow: 5px 5pz 15px blue;
+    text-shadow: 5px 5pz 15px white;
     background-color: blueviolet;
+    border-style: double;
 }
 .CAPT:hover{
     color: aqua;
     text-shadow: 5px 5pz 15px blue;
     background-color: black;
+
 }
 .CHORUS:hover{
-    color: cadetblue;
+    border-style: groove;
+    color: cadetblue steelblue;
     text-shadow: 5px 5pz 15px blue;
     background-color: aliceblue;
 }
@@ -152,21 +157,24 @@ a:hover{
     color: darkgoldenrod;
     text-shadow: 5px 5pz 15px blue;
     background-color: black;
+    border-style: solid;
 }
 .DICK:hover{
     color: black;
     text-shadow: 5px 5pz 15px azure;
     background-color: aliceblue;
-
+    border-style: unset;
   
 }
 .RALPH:hover{
 color: chartreuse;
 text-shadow: 5px 5pz 15px blue;
 background-color: brown;
+border-style: solid;
 }
 .JOS:hover{
     color: deeppink;
     text-shadow: 5px 5pz 15px blue;
     background-color: dimgray;
+    border-style: dashed;
 }
