@@ -30,12 +30,15 @@ a:hover p.direction{
     font-family: 'Times New Roman', Times, serif;
     font-style: oblique;
     color: darkgreen;
-}s
-.CAPT.{
+    
+    
+}
+.CAPT{
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: palevioletred;
     
+    border-style: solid;
 
 }
 .JOS{
@@ -114,6 +117,56 @@ th {
     background-color: cornflowerblue;
     color: beige;
 }
-:hover{
+a:hover{
     color: yellow;
+    text-shadow: 5px 5px 15px;
+    background-color: yellow;
+    
+}
+.speech:hover{
+    color: yellow;
+    text-shadow: 5px 5px 15px red;
+    background-color:cyan;
+}
+.BOAT:hover{
+    color: aliceblue;
+    text-shadow: 5px 5px 15px red;
+    background-color: crimson;
+}
+.BUT:hover{
+    color: antiquewhite;
+    text-shadow: 5px 5pz 15px blue;
+    background-color: blueviolet;
+}
+.CAPT:hover{
+    color: aqua;
+    text-shadow: 5px 5pz 15px blue;
+    background-color: black;
+}
+.CHORUS:hover{
+    color: cadetblue;
+    text-shadow: 5px 5pz 15px blue;
+    background-color: aliceblue;
+}
+.song:hover{
+    color: darkgoldenrod;
+    text-shadow: 5px 5pz 15px blue;
+    background-color: black;
+}
+.DICK:hover{
+    color: black;
+    text-shadow: 5px 5pz 15px azure;
+    background-color: aliceblue;
+
+  
+}
+.RALPH:hover{
+color: chartreuse;
+text-shadow: 5px 5pz 15px blue;
+background-color: brown;
+}
+.JOS:hover{
+    color: deeppink;
+    text-shadow: 5px 5pz 15px blue;
+    background-color: dimgray;
 }
