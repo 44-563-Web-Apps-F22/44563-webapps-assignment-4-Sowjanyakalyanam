@@ -79,3 +79,20 @@ a:hover p.direction{
 .d{
     color: blue;
 }
+table, th, td {
+    border: 1px solid; 
+}
+td{
+    text-align: center;
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+tr{
+    row-gap: 0.5px;
+}
+th {
+    background-color: cornflowerblue;
+    color: beige;
+}
