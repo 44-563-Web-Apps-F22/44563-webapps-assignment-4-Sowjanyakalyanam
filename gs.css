@@ -1,0 +1,57 @@
+p.speech{
+font-style: normal;
+font-size: medium;
+}
+p.song{
+font-style: italic;
+font-size: medium;
+}
+p.direction{
+font-style: normal;
+font-size: small;
+background-color: antiquewhite;
+
+}
+p.name{
+font-style: oblique;
+font-size: medium;
+}
+a:hover p.direction{
+  background-color: blueviolet;  
+}
+.BUT{
+    font-style: oblique;
+    color: darkgreen;
+}
+.CAPT.{
+    font-style: normal;
+    color: aqua;
+}
+.JOS{
+    font-style: normal;
+    color: aquamarine;
+}
+.HEBE{
+    font-style: normal;
+    color: bisque;
+}
+.BOAT{
+    font-style: normal;
+    color: blue;
+}
+.DICK{
+    font-style: normal;
+    color: chartreuse;
+}
+.RALPH{
+    font-style: normal;
+    color: coral;
+}
+.JOSEPH{
+    font-style: normal;
+    color: crimson;
+}
+.CHORUS{
+    font-style: italic;
+    color: azure;
+}
