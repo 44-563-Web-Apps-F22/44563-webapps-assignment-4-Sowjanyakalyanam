@@ -1,11 +1,17 @@
 
-p.speech{
+.speech{
 font-style: normal;
 font-size: medium;
+text-indent: 50px;
+color: brown;
 }
-p.song{
+.song{
+    font-family: 'Times New Roman', Times, serif;
 font-style: italic;
 font-size: medium;
+text-indent: 150px;
+color:darkblue
+
 }
 p.direction{
 font-style: normal;
@@ -21,42 +27,54 @@ a:hover p.direction{
   background-color: blueviolet;  
 }
 .BUT{
+    font-family: 'Times New Roman', Times, serif;
     font-style: oblique;
     color: darkgreen;
-}
+}s
 .CAPT.{
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: palevioletred;
+    
 
 }
 .JOS{
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: aquamarine;
 }
 .HEBE{
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: bisque;
 }
 .BOAT{
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: blue;
 }
 .DICK{
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: chartreuse;
 }
 .RALPH{
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: coral;
+    
 }
 .JOSEPH{
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: crimson;
 }
 .CHORUS{
+    
     font-style: italic;
     color: darkgoldenrod;
-
+    text-indent: 100px;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
@@ -95,4 +113,7 @@ tr{
 th {
     background-color: cornflowerblue;
     color: beige;
+}
+:hover{
+    color: yellow;
 }
