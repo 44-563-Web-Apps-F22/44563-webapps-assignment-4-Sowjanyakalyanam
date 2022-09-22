@@ -178,3 +178,21 @@ border-style: solid;
     background-color: dimgray;
     border-style: dashed;
 }
+tr:nth-child(odd){
+    background-color: brown;
+    color: aliceblue;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
